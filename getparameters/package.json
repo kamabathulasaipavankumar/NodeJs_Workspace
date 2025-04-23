@@ -1,0 +1,14 @@
+{
+    "name": "getparameters",
+    "version": "1.0.0",
+    "description": "A MERN app to get parameters",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@types/express": "^5.0.1",
+        "express": "^5.1.0"
+    },
+    "devDependencies": {}
+}
